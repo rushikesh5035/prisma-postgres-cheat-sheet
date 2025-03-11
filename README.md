@@ -51,3 +51,10 @@
 ![alt text](./assets/image-18.png)
 ![alt text](./assets/image-19.png)
 ![alt text](./assets/image-20.png)
+
+# Step 11 - Todo functions
+
+![alt text](./assets/image-21.png)
+![alt text](./assets/image-22.png)
+![alt text](./assets/image-23.png)
+![alt text](./assets/image-24.png)
