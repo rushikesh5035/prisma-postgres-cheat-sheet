@@ -45,3 +45,9 @@
 ![alt text](./assets/image-15.png)
 ![alt text](./assets/image-16.png)
 ![alt text](./assets/image-17.png)
+
+# Step 10 - Relationships.
+
+![alt text](./assets/image-18.png)
+![alt text](./assets/image-19.png)
+![alt text](./assets/image-20.png)
