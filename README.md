@@ -35,3 +35,13 @@
 ![alt text](./assets/image-13.png)
 
 # Step 8 - Generating the prisma client
+
+## What is a client?
+
+![alt text](./assets/image-14.png)
+
+# Step 9 - Creating your first app
+
+![alt text](./assets/image-15.png)
+![alt text](./assets/image-16.png)
+![alt text](./assets/image-17.png)
