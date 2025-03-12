@@ -1,4 +1,18 @@
-# Table of Content
+# Table of Contents
+
+1. [What are ORMs](#step-1---what-are-orms)
+2. [Why ORMs?](#step-2---why-orms)
+3. [What is Prisma](#step-3---what-is-prisma)
+4. [Installing prisma in a fresh app](#step-4---installing-prisma-in-a-fresh-app)
+5. [Selecting your database](#step-5---selecting-your-database)
+6. [Defining your data model](#step-6---defining-your-data-model)
+7. [Exploring your database](#step-7---exploring-your-database)
+8. [Generating the prisma client](#step-8---generating-the-prisma-client)
+9. [Creating your first app](#step-9---creating-your-first-app)
+10. [Relationships](#step-10---relationships)
+11. [Todo functions](#step-11---todo-functions)
+
+---
 
 # Step 1 - What are ORMs
 
